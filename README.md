@@ -1,5 +1,9 @@
 # 邮箱管理页面使用
 
+## gitee连接
+
+https://gitee.com/zhaorunqi/opensource-intern/tree/master/mail2list
+
 ## 运行数据库
 
 安装好openGauss数据库，运行db/mail_list.sql，得到对应的数据结构
